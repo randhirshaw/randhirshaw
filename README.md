@@ -29,7 +29,7 @@ A 4th-year student pursuing Bachelors in Electrical And Electronics Engineering 
 <hr>
 
 <p align="center">
-  <img src="https://github.com/randhirshaw/randhirshaw/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  
 </p>
 
 
