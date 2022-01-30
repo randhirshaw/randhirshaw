@@ -25,7 +25,7 @@ A 4th-year student pursuing Bachelors in Electrical And Electronics Engineering 
 <a href="https://www.linkedin.com/in/randhirshaw/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="randhir shaw" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/randhirgpta" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="randhirgpta" height="50" width="50" /></a>
 </p>
-
+<img src="https://github.com/randhirshaw/randhirshaw/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 <hr>
 
 <p align="center">
