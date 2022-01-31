@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=randhirshaw&label=Profile%20views&color=0e75b6&style=flat" alt="randhirshaw" /> </p>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -5,17 +7,23 @@
 <h5 align="center">
 A 4th-year student pursuing Bachelors in Electrical And Electronics Engineering studies with a specialization of AIML, from Swami Vivekananda Institute of Science And Technology. I am a Data Science enthusiast, Web developer, and a Bathroom Singer. 
 </h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=randhirshaw&label=Profile%20views&color=0e75b6&style=flat" alt="randhirshaw" /> </p>
+
 <p>
 <a align= "center" href="https://github.com/randhirshaw">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=randhirshaw&theme=radical">
-<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+    <img align="right" height="450" width="540" src="https://cdn.dribbble.com/users/1355613/screenshots/15515375/media/d915d491b41176a66700fbddb1a2d730.jpeg?compress=1&resize=1200x900&vertical=top" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=randhirshaw&count_private=true&theme=radical&show_icons=true" />
 
-<p align="left"> <a href="https://twitter.com/randhirshaw" target="blank"><img src="https://img.shields.io/twitter/follow/ThisisRandhir?logo=twitter&style=for-the-badge" alt="ThisisRandhir" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thisisrandhir" target="blank"><img src="https://img.shields.io/twitter/follow/thisisrandhir?logo=twitter&style=for-the-badge" alt="thisisrandhir" /></a> </p>
+
+- 💬 Ask me about **Anything?**
 
 - 📫 How to reach me **randhirshaw10@gmail.com**
+
+- ⚡ Fun fact **I think that I can sing well XD** -
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=randhirshaw&show_icons=true&locale=en&layout=compact" alt="randhirshaw" /></p>
 <br><br>
 <hr>
 
@@ -27,23 +35,9 @@ A 4th-year student pursuing Bachelors in Electrical And Electronics Engineering 
 </p>
 <img src="https://github.com/randhirshaw/randhirshaw/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 <hr>
-
-<p align="center">
-  
+<p align="center">  
 </p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=randhirshaw&label=Profile%20views&color=0e75b6&style=flat" alt="randhirshaw" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=randhirshaw" alt="randhirshaw" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/thisisrandhir" target="blank"><img src="https://img.shields.io/twitter/follow/thisisrandhir?logo=twitter&style=for-the-badge" alt="thisisrandhir" /></a> </p>
-
-- 💬 Ask me about **Anything?**
-
-- 📫 How to reach me **randhirshaw10@gmail.com**
-
-- ⚡ Fun fact **I think that I can sing well XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,9 +56,3 @@ A 4th-year student pursuing Bachelors in Electrical And Electronics Engineering 
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/IamRandhir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="IamRandhir" /></a><a href="https://ko-fi.com/iamrandhir"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="iamrandhir" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=randhirshaw&show_icons=true&locale=en&layout=compact" alt="randhirshaw" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=randhirshaw&show_icons=true&locale=en" alt="randhirshaw" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randhirshaw&" alt="randhirshaw" /></p>
