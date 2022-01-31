@@ -11,7 +11,7 @@ A 4th-year student pursuing Bachelors in Electrical And Electronics Engineering 
 <p>
 <a align= "center" href="https://github.com/randhirshaw">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=randhirshaw&theme=radical">
-    <img align="right" height="450" width="500" src="https://cdn.dribbble.com/users/1355613/screenshots/15515375/media/d915d491b41176a66700fbddb1a2d730.jpeg?compress=1&resize=1200x900&vertical=top" /> </a>
+    <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/1355613/screenshots/15515375/media/d915d491b41176a66700fbddb1a2d730.jpeg?compress=1&resize=1200x900&vertical=top" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=randhirshaw&count_private=true&theme=radical&show_icons=true" />
 
