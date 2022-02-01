@@ -30,6 +30,7 @@ A 4th-year student pursuing Bachelors in Electrical And Electronics Engineering 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=randhirshaw&count_private=true&layout=compact&theme=radical&show_icons=true" alt="randhirshaw" />
 </p>
+<b>Note:</b> Top languages is only a metric of the language's of my public code and doesn't reflect experience or skill level.
 
 <a href="https://github.com/randhirshaw/github-readme-activity-graph">
          <img alt="Randhir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=randhirshaw&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
@@ -108,4 +109,3 @@ A 4th-year student pursuing Bachelors in Electrical And Electronics Engineering 
 <a href="https://github.com/randhirshaw/github-readme-stats"><img alt="Randhir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=randhirshaw&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/randhirshaw/github-readme-stats"><img alt="Randhir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randhirshaw&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the language's of my public code and doesn't reflect experience or skill level.
