@@ -38,7 +38,7 @@ A 4th-year student pursuing Bachelors in Electrical And Electronics Engineering 
 <br>
 <hr>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me :</h3>
 
 <p align="center">
 <a href="https://twitter.com/ThisisRandhir" target="blank">
