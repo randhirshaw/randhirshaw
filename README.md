@@ -25,17 +25,15 @@ A 4th-year student pursuing Bachelors in Electrical And Electronics Engineering 
 
 - 📫 How to reach me **randhirshaw10@gmail.com**
 
-- ⚡ Fun fact **I think that I can sing well XD** -
+- ⚡ Fun fact - **I think that I can sing well XD** 
 
 <p>
-         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=randhirshaw&show_icons=true&locale=en&layout=compact" alt="randhirshaw" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=randhirshaw&count_private=true&layout=compact&theme=radical&show_icons=true" alt="randhirshaw" />
 </p>
 
 <a href="https://github.com/randhirshaw/github-readme-activity-graph">
          <img alt="Randhir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=randhirshaw&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </a>
-<br>
-<br>
 <hr>
 
 <h3 align="center">Connect with me :</h3>
