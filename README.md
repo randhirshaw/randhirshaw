@@ -109,3 +109,10 @@ A 4th-year student pursuing Bachelors in Electrical And Electronics Engineering 
 <a href="https://github.com/randhirshaw/github-readme-stats"><img alt="Randhir's Github Stats" src="https://github-readme-stats.vercel.app/api?username=randhirshaw&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/randhirshaw/github-readme-stats"><img alt="Randhir's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randhirshaw&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+  
+  
+  <p align="center">
+    <a href="https://github.com/randhirshaw/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Randhir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=randhirshaw&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
