@@ -51,7 +51,9 @@ A 4th-year student pursuing Bachelors in Electrical And Electronics Engineering 
          <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="randhirgpta" height="50" width="50" />
 </a>
 </p>
-<h3 align="center">Support:</h3>
+
+<h3 align="center">Support :</h3>
+
 <p align="center">
 <a href="https://www.buymeacoffee.com/IamRandhir"> 
          <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="IamRandhir" /></a><a href="https://ko-fi.com/iamrandhir"> 
