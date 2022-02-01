@@ -65,7 +65,7 @@ A 4th-year student pursuing Bachelors in Electrical And Electronics Engineering 
 </p>
 
 <hr>
-
+<h3 align="center">My Github Trophies :</h3>
 <p align="center"> 
          <a href="https://github.com/ryo-ma/github-profile-trophy">
                   <img src="https://github-profile-trophy.vercel.app/?username=randhirshaw" alt="randhirshaw" />
