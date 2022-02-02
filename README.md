@@ -111,8 +111,4 @@ A 4th-year student pursuing Bachelors in Electrical And Electronics Engineering 
   <br/>
   
   
-  <p align="center">
-    <a href="https://github.com/randhirshaw/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Randhir's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=randhirshaw&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+  
