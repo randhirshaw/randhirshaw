@@ -1,15 +1,18 @@
-<p align="left"> 
-         <img src="https://komarev.com/ghpvc/?username=randhirshaw&label=Profile%20views&color=0e75b6&style=flat" alt="randhirshaw" /> 
-</p>
+![](https://komarev.com/ghpvc/?username=randhirshaw&style=plastic)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/randhirshaw)
+
+![Hello](Hello.gif)
+![Name](name.jpeg)
+
 <h1 align="center">
          Hello! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Randhir Shaw.
 </h1>
-<h5 align="center">
-A 4th-year student pursuing Bachelors in Electrical And Electronics Engineering studies with a specialization of AIML, from Swami Vivekananda Institute of Science And Technology. I am a Data Science enthusiast, Web developer, and a Bathroom Singer. 
-</h5>
+<h4 align="center">
+A 4th-year student pursuing✒️ Bachelors in Electrical And Electronics Engineering studies from India, Kolkata <img src="https://media3.giphy.com/media/9Gnbm29r7ftUA/giphy.gif?cid=ecf05e47fukjq9m5qmytezvwv70g5n3tafh00x32klperzza&rid=giphy.gif&ct=g" width="45">. I am a Data Science enthusiast, Web developer, and a Bathroom Singer. I am a self learner and passionate about Machine-Learning 🤖👾.
+</h4>
 <p>
 <a align= "center" href="https://github.com/randhirshaw">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=randhirshaw&theme=radical">
@@ -21,11 +24,16 @@ A 4th-year student pursuing Bachelors in Electrical And Electronics Engineering 
 <a href="https://twitter.com/thisisrandhir" target="blank"><img src="https://img.shields.io/twitter/follow/thisisrandhir?logo=twitter&style=for-the-badge" alt="thisisrandhir" /></a> 
 </p>
 
-- 💬 Ask me about **Anything?**
+### About me :eyes:
 
-- 📫 How to reach me **randhirshaw10@gmail.com**
-
-- ⚡ Fun fact - **I think that I can sing well XD** 
+- 🔭 I’m currently working on Myself😎👻
+- 🌱 I’m currently learning Data Structures & Algorithms.
+- 💬 Ask me about: tech, memes, webseries
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with new project ideas
+- 📫 How to reach me **randhirshaw10@gmail.com**🔝
+- 😄 Pronouns: he/him
+- ⚡ Fun fact - **I think that I can sing well XD 😂!** 
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=randhirshaw&count_private=true&layout=compact&theme=radical&show_icons=true" alt="randhirshaw" />
@@ -103,15 +111,11 @@ A 4th-year student pursuing Bachelors in Electrical And Electronics Engineering 
 
 <p align="center"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
@@ -123,11 +127,7 @@ A 4th-year student pursuing Bachelors in Electrical And Electronics Engineering 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -135,3 +135,8 @@ A 4th-year student pursuing Bachelors in Electrical And Electronics Engineering 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
          <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
+
+##
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different peoples from around the world, so if anyone wanna be my friend, feel free to [reach out](https://www.linkedin.com/in/randhirshaw/) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
