@@ -45,7 +45,7 @@ A 4th-year student pursuing✒️ Bachelors in Electrical And Electronics Engine
 </a>
 <hr>
 
-<h3 align="center">Connect with me :</h3>
+<h3 align="center">Connect with me🤗🤝:</h3>
 
 <p align="center">
 <a href="https://twitter.com/ThisisRandhir" target="blank">
@@ -59,7 +59,7 @@ A 4th-year student pursuing✒️ Bachelors in Electrical And Electronics Engine
 </a>
 </p>
 
-<h3 align="center">Support :</h3>
+<h3 align="center">Support❤️:</h3>
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/IamRandhir"> 
