@@ -86,10 +86,10 @@ A 4th-year student pursuing✒️ Bachelors in Electrical And Electronics Engine
 <!-- Badges template - https://github.com/badges/shields -->
 
 <p align="center">
-<a href="https://www.facebook.com/in/iamrandhir/"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.facebook.com/in/iamrandhir"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://www.hackerrank.com/iamrandhir"><img alt="hackerrank" title="hackerrank" src="https://img.shields.io/badge/-hackerrank-0ec950?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>       
 <a href="https://www.leetcode.com/randhirshaw"><img alt="leetcode" title="Leetcode" src="https://img.shields.io/badge/-Leetcode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white"/></a>   
-<a href="https://www.hackerearth.com/thisisrandhir"><img alt="hackerearth" title="hackerearth" src="https://img.shields.io/badge/-hackerearth-935F31?style=for-the-badge&logo=hackerearth&logoColor=white" /></a>
+<a href="https://www.hackerearth.com/@ThisisRandhir"><img alt="hackerearth" title="hackerearth" src="https://img.shields.io/badge/-hackerearth-935F31?style=for-the-badge&logo=hackerearth&logoColor=white" /></a>
 <a href="https://auth.geeksforgeeks.org/user/randhirshaw/profile"><img alt="geeksforgeeks" title="geeksforgeeks" src="https://img.shields.io/badge/-geeksforgeeks-0ec950?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
