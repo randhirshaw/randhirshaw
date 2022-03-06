@@ -4,12 +4,13 @@
 ![Hello](Hello.gif)
 ![Name](name.jpeg)
 
-<h1 align="center">
-         Hello! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Randhir Shaw.
+<h1 align="center"> Hey! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm feeling happy to say that I'm a
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Python%20Programmer&center=true&width=500&height=50">
+</p>
+
 <h4 align="center">
 A 4th-year student pursuing✒️ Bachelors in Electrical And Electronics Engineering studies from India, Kolkata <img src="https://media3.giphy.com/media/9Gnbm29r7ftUA/giphy.gif?cid=ecf05e47fukjq9m5qmytezvwv70g5n3tafh00x32klperzza&rid=giphy.gif&ct=g" width="45">. I am a Data Science enthusiast, Web developer, and a Bathroom Singer. I am a self learner and passionate about Machine-Learning 🤖👾.
 </h4>
@@ -22,10 +23,12 @@ A 4th-year student pursuing✒️ Bachelors in Electrical And Electronics Engine
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=randhirshaw&count_private=true&theme=radical&show_icons=true" />
 <p align="left"> 
 <a href="https://twitter.com/thisisrandhir" target="blank"><img src="https://img.shields.io/twitter/follow/thisisrandhir?logo=twitter&style=for-the-badge" alt="thisisrandhir" /></a> 
+<a href="https://github.com/randhirshaw">
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/randhirshaw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
 
-### About me :eyes:
-
+<details>        <summary><b>💡 About me :eyes:</b></summary>
+         
 - 🔭 I’m currently working on Myself😎👻
 - 🌱 I’m currently learning Data Structures & Algorithms.
 - 💬 Ask me about: tech, memes, webseries
@@ -34,15 +37,21 @@ A 4th-year student pursuing✒️ Bachelors in Electrical And Electronics Engine
 - 📫 How to reach me **randhirshaw10@gmail.com**🔝
 - 😄 Pronouns: he/him
 - ⚡ Fun fact - **I think that I can sing well XD 😂!** 
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=randhirshaw&count_private=true&layout=compact&theme=radical&show_icons=true" alt="randhirshaw" />
-</p>
+</details>
+<details>         <summary><b>🔎 Github Profile Details</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=randhirshaw&theme=github_dark" alt="randhirshaw" align = "center"/></p>
+</details>
+<details>         <summary><b>⚡ Most Used Languages</b></summary>
+<p align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=randhirshaw&count_private=true&layout=compact&theme=radical&show_icons=true" alt="randhirshaw" align = "center"/></p>
 <b>Note:</b> Top languages is only a metric of the language's of my public code and doesn't reflect experience or skill level.
+</details>
+<details>         <summary><b>📊 Github Contribution Graph</b></summary>
+<p align="center"><a href="https://github.com/randhirshaw/github-readme-activity-graph"><img alt="Randhir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=randhirshaw&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p>
+</details>
+<details>         <summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/randhirshaw"><img src="https://github-profile-trophy.vercel.app/?username=randhirshaw&margin-w=5&theme=radical" alt="randhirshaw" /></a> </p>
+</details>
 
-<a href="https://github.com/randhirshaw/github-readme-activity-graph">
-         <img alt="Randhir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=randhirshaw&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</a>
 <hr>
 
 <h3 align="center">Connect with me🤗🤝:</h3>
@@ -72,39 +81,16 @@ A 4th-year student pursuing✒️ Bachelors in Electrical And Electronics Engine
 </p>
 
 <hr>
-<h3 align="center">My Github Trophies :</h3>
-<p align="center"> 
-         <a href="https://github.com/ryo-ma/github-profile-trophy">
-                  <img src="https://github-profile-trophy.vercel.app/?username=randhirshaw" alt="randhirshaw" />
-         </a>
-</p>
 
 <h3 align="center">Increase The Connection with me :</h3>
+<!-- Badges template - https://github.com/badges/shields -->
 
 <p align="center">
-<a href="https://fb.com/iamrandhir" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamrandhir" height="30" width="40" />
-</a>
-         
-<a href="https://www.hackerrank.com/iamrandhir" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iamrandhir" height="30" width="40" />
-</a>
-         
-<a href="https://codeforces.com/profile/thisisrandhir" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="thisisrandhir" height="30" width="40" />
-</a>
-         
-<a href="https://www.leetcode.com/randhirshaw" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="randhirshaw" height="30" width="40" />
-</a>
-         
-<a href="https://www.hackerearth.com/thisisrandhir" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="thisisrandhir" height="30" width="40" />
-</a>
-         
-<a href="https://auth.geeksforgeeks.org/user/randhirshaw/profile" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="randhirshaw/profile" height="30" width="40" />
-</a>
+<a href="https://www.facebook.com/in/iamrandhir/"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/iamrandhir"><img alt="hackerrank" title="hackerrank" src="https://img.shields.io/badge/-hackerrank-0ec950?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>       
+<a href="https://www.leetcode.com/randhirshaw"><img alt="leetcode" title="Leetcode" src="https://img.shields.io/badge/-Leetcode-1DA1F2?style=for-the-badge&logo=leetcode&logoColor=white"/></a>   
+<a href="https://www.hackerearth.com/thisisrandhir"><img alt="hackerearth" title="hackerearth" src="https://img.shields.io/badge/-hackerearth-935F31?style=for-the-badge&logo=hackerearth&logoColor=white" /></a>
+<a href="https://auth.geeksforgeeks.org/user/randhirshaw/profile"><img alt="geeksforgeeks" title="geeksforgeeks" src="https://img.shields.io/badge/-geeksforgeeks-0ec950?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 </p>
 
 <h3 align="center">Languages and Tools Which I use :</h3>
