@@ -98,3 +98,5 @@ A 4th-year student pursuing✒️ Bachelors in Electrical And Electronics Engine
 <p align="center"> <img src="https://github.com/randhirshaw/randhirshaw/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </p>
+
+![HappyHoli](giphy(1).gif)
