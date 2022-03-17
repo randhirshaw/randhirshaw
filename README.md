@@ -4,7 +4,7 @@
 ![Hello](Hello.gif)
 ![Name](name.jpeg)
 
-<h1 align="center"> Hey! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm feeling happy to say that I'm a
+<h1 align="center"> Hey! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm feeling Proud to say that I'm a
 </h1>
 
 <p align="center">
@@ -17,7 +17,7 @@ A 4th-year student pursuing✒️ Bachelors in Electrical And Electronics Engine
 <p>
 <a align= "center" href="https://github.com/randhirshaw">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=randhirshaw&theme=radical">
-<img align="right" height="400" width="410" src="https://cdn.dribbble.com/users/1355613/screenshots/15515375/media/d915d491b41176a66700fbddb1a2d730.jpeg?compress=1&resize=1200x900&vertical=top" /> </a>
+<img align="right" height="400" width="410" src="Holi.gif"> </a>
 </p>
 
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=randhirshaw&count_private=true&theme=radical&show_icons=true" />
@@ -98,5 +98,3 @@ A 4th-year student pursuing✒️ Bachelors in Electrical And Electronics Engine
 <p align="center"> <img src="https://github.com/randhirshaw/randhirshaw/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </p>
-
-![HappyHoli](giphy(1).gif)
