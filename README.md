@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=randhirshaw&style=plastic)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/randhirshaw)
 
-![Hello](Hello.gif)
-![Name](name.jpeg)
+<!--  ![Hello](Hello.gif)
+![Name](name.jpeg) -->
 
 <h1 align="center"> Hey! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm feeling Proud to say that I'm a
 </h1>
