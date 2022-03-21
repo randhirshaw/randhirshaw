@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=randhirshaw&style=plastic)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/randhirshaw)
 
-<!--  ![Hello](Hello.gif)
+<!-- ![Hello](Hello.gif)
 ![Name](name.jpeg) -->
 
 <h1 align="center"> Hey! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm feeling Proud to say that I'm a
@@ -95,6 +95,6 @@ A 4th-year student pursuing✒️ Bachelors in Electrical And Electronics Engine
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different peoples from around the world, so if anyone wanna be my friend, feel free to [reach out](https://www.linkedin.com/in/randhirshaw/) and introduce yourself (don’t just say hi, ask me Anything!")</b> 😊 💜</em>
-<p align="center"> <img src="https://github.com/randhirshaw/randhirshaw/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+<p align="center"> <img src="gitartwork.svg"> <img src="https://github.com/randhirshaw/randhirshaw/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </p>
