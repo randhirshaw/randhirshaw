@@ -18,7 +18,7 @@ A 4th-year student pursuing✒️ Bachelors in Electrical And Electronics Engine
 <p>
 <a align= "center" href="https://github.com/randhirshaw">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=randhirshaw&theme=radical">
-<img align="right" height="400" width="410" src="HappyHoli.gif"> </a>
+<img align="right" height="400" width="410" src="Problems.gif"> </a>
 </p>
 
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=randhirshaw&count_private=true&theme=radical&show_icons=true" />
