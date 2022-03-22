@@ -8,23 +8,17 @@
 <h1 align="center"> Hey! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm feeling Proud to say that I'm a
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Python%20Programmer&center=true&width=500&height=50">
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Python%20Programmer&center=true&width=500&height=50"> </p>
+
+<h4 align="center"> A 4th-year student pursuing✒️ Bachelors in Electrical And Electronics Engineering studies from India, Kolkata <img src="https://media3.giphy.com/media/9Gnbm29r7ftUA/giphy.gif?cid=ecf05e47fukjq9m5qmytezvwv70g5n3tafh00x32klperzza&rid=giphy.gif&ct=g" width="45">. I am a Data Science enthusiast, Web developer, and a Bathroom Singer. I am a self learner and passionate about Machine-Learning 🤖👾. </h4>
+
+<p> <a align= "left" href="https://github.com/randhirshaw">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=randhirshaw&theme=radical"></a>
+  <img align="right" height="400" width="410" src="Problems.gif">
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=randhirshaw&count_private=true&theme=radical&show_icons=true">
 </p>
 
-<h4 align="center">
-A 4th-year student pursuing✒️ Bachelors in Electrical And Electronics Engineering studies from India, Kolkata <img src="https://media3.giphy.com/media/9Gnbm29r7ftUA/giphy.gif?cid=ecf05e47fukjq9m5qmytezvwv70g5n3tafh00x32klperzza&rid=giphy.gif&ct=g" width="45">. I am a Data Science enthusiast, Web developer, and a Bathroom Singer. I am a self learner and passionate about Machine-Learning 🤖👾.
-</h4>
-<p>
-<a align= "center" href="https://github.com/randhirshaw">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=randhirshaw&theme=radical">
-<img align="right" height="400" width="410" src="Problems.gif"> </a>
-</p>
-
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=randhirshaw&count_private=true&theme=radical&show_icons=true" />
-
-<p align="left"> 
-<a href="https://twitter.com/ThisisRandhir" target="blank"> <img title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/ThisisRandhir?logo=twitter&style=for-the-badge" alt="ThisisRandhir" /></a> 
+<p align="left"> <a href="https://twitter.com/ThisisRandhir" target="blank"> <img title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/ThisisRandhir?logo=twitter&style=for-the-badge" alt="ThisisRandhir" /></a> 
 <a href="https://github.com/randhirshaw"> <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/randhirshaw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" /></a>
 </p>
 
