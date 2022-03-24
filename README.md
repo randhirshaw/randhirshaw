@@ -41,7 +41,7 @@
 <b>Note:</b> Top languages is only a metric of the language's of my public code and doesn't reflect experience or skill level.
 </details>
 <details>         <summary><i><b>📊 Github Contribution Graph</b></i></summary>
-<p align="center"><a href="https://github.com/randhirshaw/github-readme-activity-graph"><img alt="Randhir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=randhirshaw&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p>
+<p align="center"> <a href="https://github.com/randhirshaw/github-readme-activity-graph"><img alt="Randhir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=randhirshaw&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </a></p>
 </details>
 <details>         <summary><i><b>🏆 Github Achievements</b></i></summary>
 <p align="center"> <a href="https://github.com/randhirshaw"><img src="https://github-profile-trophy.vercel.app/?username=randhirshaw&margin-w=5&theme=radical" alt="randhirshaw" /></a> </p>
