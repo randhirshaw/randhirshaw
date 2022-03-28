@@ -93,3 +93,69 @@
 <p align="center"> <img src="https://github.com/randhirshaw/randhirshaw/raw/output/github-contribution-grid-snake.svg" alt="snake">
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </p>
+
+
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
+🌆 Daytime    109 commits    ███████░░░░░░░░░░░░░░░░░░   29.7% 
+🌃 Evening    173 commits    ███████████░░░░░░░░░░░░░░   47.14% 
+🌙 Night      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.45%
+```
+**I'm Most Productive on Sunday** 📅 
+
+```text
+Monday       57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
+Tuesday      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Wednesday    49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
+Thursday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
+Friday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Saturday     82 commits     █████░░░░░░░░░░░░░░░░░░░░   23.3% 
+Sunday       88 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0%
+```
+
+
+**I Mostly Code in Python 💻** 
+
+```text
+Python                   13 repos            ████████░░░░░░░░░░░░░░░░░   31.71% 
+Java                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95% 
+Jupyter Notebook         9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95% 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
+```
+
+
+
+<!--END_SECTION:waka-->
+
+⏳ **Year Progress** { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 23.57 % as on ⏰ 27-Mar-2022
+
+---
+
+<!-- ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Latest Blog posts:
+<!-- BLOG-POST-LIST:START -->
+<!-- [SOLID Principles in Java](https://apoorvtyagi.tech/solid-principles-in-java)
+- [Introduction to Asynchronous Processing and Message Queues](https://apoorvtyagi.tech/introduction-to-asynchronous-processing-and-message-queues)
+- [Building Microservices using Spring Boot + HarperDB and Deploying it on AWS](https://apoorvtyagi.tech/building-microservices-using-spring-boot-harperdb-and-deploying-it-on-aws)
+- [Javascript Clean Code Tips &amp; Good Practices](https://apoorvtyagi.tech/javascript-clean-code-tips-and-good-practices)
+- [NanoID - A URL Friendly Unique Identifier](https://apoorvtyagi.tech/nanoid-url-friendly-unique-id) 
+<!-- BLOG-POST-LIST:END -->
+
+<!--▶ [... view more](https://randhirshaw.tech/)
+
+---
+
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+• <i>“Your most unhappy customers are your greatest source of learning.”— Bill Gates   </i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+
+---
+
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
