@@ -34,7 +34,7 @@
 - ⚡ Fun fact - **I think that I can sing well XD 😂!** 
 </details>
 <details>         <summary><i><b>🔎 Github Profile Details</b></i></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=randhirshaw&theme=github_dark" alt="randhirshaw" align = "center"/></p>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=randhirshaw&theme=monokai" alt="randhirshaw" align = "center"/></p>
 </details>
 <details>         <summary><i><b>⚡ Most Used Languages</b></i></summary>
 <p align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=randhirshaw&count_private=true&layout=compact&theme=radical&show_icons=true" alt="randhirshaw" align = "center"/></p>
