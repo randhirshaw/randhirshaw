@@ -13,8 +13,8 @@
 <h4 align="center"> A 4th-year student pursuing✒️ Bachelors in Electrical And Electronics Engineering studies from India, Kolkata <img src="https://media3.giphy.com/media/9Gnbm29r7ftUA/giphy.gif?cid=ecf05e47fukjq9m5qmytezvwv70g5n3tafh00x32klperzza&rid=giphy.gif&ct=g" width="45">. I am a Data Science enthusiast, Web developer, and a Bathroom Singer. I am a self learner and passionate about Machine-Learning 🤖👾. </h4>
 
 <p> <a href="https://github.com/randhirshaw">
-<img align= "left" alt= "stats card" height="200px" width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=randhirshaw&theme=radical"> </a> <img align="right" height="400" width="410" src="Problems.gif"> 
-<img align= "left" height="200px" width="390" src="https://github-readme-stats.vercel.app/api?username=randhirshaw&count_private=true&theme=radical&show_icons=true">
+<img align= "left" alt= "stats card" height="200px" width="395" src="https://github-readme-streak-stats.herokuapp.com/?user=randhirshaw&theme=radical"> </a> <img align="right" height="400" width="410" src="Problems.gif"> 
+<img align= "left" height="200px" width="395" src="https://github-readme-stats.vercel.app/api?username=randhirshaw&count_private=true&theme=radical&show_icons=true">
 </p>
 
 <p align="left"> <a href="https://twitter.com/ThisisRandhir" target="blank"> <img title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/ThisisRandhir?logo=twitter&style=for-the-badge" alt="ThisisRandhir" /></a> 
