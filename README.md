@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=randhirshaw&style=plastic)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/randhirshaw)
 
-<!-- ![Name](name.jpeg) -->
 ![Hello](Hello.gif)
 <p align="center"> <img src="gitartwork.svg"> </p>
 
@@ -142,24 +141,18 @@ C++                      2 repos             █░░░░░░░░░░�
 - [NanoID - A URL Friendly Unique Identifier](https://randhirshaw.tech/nanoid-url-friendly-unique-id) 
 <!-- BLOG-POST-LIST:END -->
 
-<!--▶ [... view more](https://randhirshaw.tech/)
+<!-- ▶ [... view more](https://randhirshaw.tech/) -->
 
 ---
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
+### <img align="center" width="29px" src="fact.gif"> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Your most unhappy customers are your greatest source of learning.”— Bill Gates   </i>
+• <i> “Your most unhappy customers are your greatest source of learning.”— Bill Gates   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
----
-
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
-
-
+---
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ThisisRandhir&layout=wide)](https://github.com/ThisisRandhir/github-readme-twitter)
-
-<!--STARTS_HERE_QUOTE_README-->
-<!--ENDS_HERE_QUOTE_README-->
