@@ -146,7 +146,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ### <img align="center" width="29px" src="fact.gif"> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i> “Your most unhappy customers are your greatest source of learning.”— Bill Gates   </i>
+<i>❝The first Apple computer ever made by Steve Jobs and Steve Wozniak was made from old parts they collected for free from their staff!❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
