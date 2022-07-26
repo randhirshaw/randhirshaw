@@ -209,6 +209,9 @@ C++                      2 repos             █░░░░░░░░░░�
 <br/>   
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IamRandhir)](https://github.com/randhirshaw/github-readme-stats)
 
+<a href="https://github.com/randhirshaw/randhirshaw/issues/2#issuecomment-new"><img src="images/guestbook.svg"></a> 
+
+
 <!---
 <div align="center"><img src="https://randhirshaw.github.io/static/images/spotify-readme-example.svg" /></div>  
 <br/>  
