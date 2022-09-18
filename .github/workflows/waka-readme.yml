@@ -8,14 +8,19 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: randhirshaw/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          BLOCKS: ->
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROJECTS: true
+          SHOW_LINES_OF_CODE: true
+          SHOW_LANGUAGE: true
+          SHOW_OS: true
+          SHOW_EDITORS: true
+          SHOW_TIMEZONE: true
+          SHOW_LOC_CHART: true
+          SHOW_PROFILE_VIEWS: true
+          SHOW_SHORT_INFO: true
