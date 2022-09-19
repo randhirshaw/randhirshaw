@@ -153,17 +153,6 @@
 
 ---
 
-<!-- ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- [SOLID Principles in Java](https://randhirshaw.tech/solid-principles-in-java)
-- [Introduction to Asynchronous Processing and Message Queues](https://randhirshaw.tech/introduction-to-asynchronous-processing-and-message-queues)
-- [Building Microservices using Spring Boot + HarperDB and Deploying it on AWS](https://randhirshaw.tech/building-microservices-using-spring-boot-harperdb-and-deploying-it-on-aws)
-- [Javascript Clean Code Tips &amp; Good Practices](https://randhirshaw.tech/javascript-clean-code-tips-and-good-practices)
-- [NanoID - A URL Friendly Unique Identifier](https://randhirshaw.tech/nanoid-url-friendly-unique-id) 
-<!-- BLOG-POST-LIST:END -->
-
-<!-- ▶ [... view more](https://randhirshaw.tech/) -->
-
 ### <img align="center" width="29px" src="fact.gif"> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
