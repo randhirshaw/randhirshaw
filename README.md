@@ -9,7 +9,7 @@
 
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20Full%20Stack%20Developer;And%20Self%20taught%20Python%20Programmer&center=true&width=500&height=50"> </p>
 
-<h4 align="center"> A graduated🎓 Electrical And Electronics Engineer💡 in the Field of CS or IT👨🏽‍💻 domain, studied from India, Kolkata <img src="https://media3.giphy.com/media/9Gnbm29r7ftUA/giphy.gif?cid=ecf05e47fukjq9m5qmytezvwv70g5n3tafh00x32klperzza&rid=giphy.gif&ct=g" width="45">. I am a Data Science enthusiast, Web developer, and a Bathroom Singer. I am a self learner and passionate about Machine-Learning 🤖👾. </h4>
+<h4 align="center"> A graduated🎓 Electrical And Electronics Engineer💡 in the Field of CS or IT👨🏽‍💻 domain, studied from India, Kolkata <img src="https://media3.giphy.com/media/9Gnbm29r7ftUA/giphy.gif?cid=ecf05e47fukjq9m5qmytezvwv70g5n3tafh00x32klperzza&rid=giphy.gif&ct=g" width="45">. I am a Web3.0 & AIML enthusiast and a Bathroom Singer. I am a self learner and passionate about Machine-Learning 🤖👾. </h4>
 
 <p> <a href="https://github.com/randhirshaw">
 <img align= "left" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=randhirshaw&theme=radical"> </a> <img align="right" height="400" width="410" src="Problems.gif"> 
@@ -45,7 +45,7 @@
 <p align="center"> <a href="https://github.com/randhirshaw"><img src="https://github-profile-trophy.vercel.app/?username=randhirshaw&margin-w=5&theme=radical" alt="randhirshaw" /></a> </p>
 </details>
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="center">Connect with me🤗🤝:</h3>
 
