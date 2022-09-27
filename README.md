@@ -7,9 +7,9 @@
 <h1 align="center"> Hey! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />, I'm feeling Proud to say that I'm a
 </h1>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Self%20taught%20Python%20Programmer&center=true&width=500&height=50"> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20Full%20Stack%20Developer;And%20Self%20taught%20Python%20Programmer&center=true&width=500&height=50"> </p>
 
-<h4 align="center"> A 4th-year student pursuing✒️ Bachelors in Electrical And Electronics Engineering studies from India, Kolkata <img src="https://media3.giphy.com/media/9Gnbm29r7ftUA/giphy.gif?cid=ecf05e47fukjq9m5qmytezvwv70g5n3tafh00x32klperzza&rid=giphy.gif&ct=g" width="45">. I am a Data Science enthusiast, Web developer, and a Bathroom Singer. I am a self learner and passionate about Machine-Learning 🤖👾. </h4>
+<h4 align="center"> A graduated🎓 Electrical And Electronics Engineer💡 in the Field of CS or IT👨🏽‍💻 domain, studied from India, Kolkata <img src="https://media3.giphy.com/media/9Gnbm29r7ftUA/giphy.gif?cid=ecf05e47fukjq9m5qmytezvwv70g5n3tafh00x32klperzza&rid=giphy.gif&ct=g" width="45">. I am a Data Science enthusiast, Web developer, and a Bathroom Singer. I am a self learner and passionate about Machine-Learning 🤖👾. </h4>
 
 <p> <a href="https://github.com/randhirshaw">
 <img align= "left" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=randhirshaw&theme=radical"> </a> <img align="right" height="400" width="410" src="Problems.gif"> 
