@@ -170,6 +170,9 @@
 <br/>   
 [![Randhir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IamRandhir)](https://github.com/randhirshaw/github-readme-stats)
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 <!---
 <a href="https://github.com/randhirshaw/randhirshaw/issues/2#issuecomment-new"><img src="images/guestbook.svg"></a> 
 
