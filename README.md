@@ -163,8 +163,8 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
 
 ---
-<a href="https://app.daily.dev/randhirshaw"><img align="right" src="https://github.com/randhirshaw/randhirshaw/blob/master/devcard.svg" width="300" alt="Randhir's Dev Card"/></a>
-
+<!-- <a href="https://app.daily.dev/randhirshaw"><img align="right" src="https://github.com/randhirshaw/randhirshaw/blob/master/devcard.svg" width="300" alt="Randhir's Dev Card"/></a> -->
+<a href="https://app.daily.dev/randhirshaw"><img align="right" src="https://api.daily.dev/devcards/014fa0c02f094c3caac5818f8532a470.png?r=f6e" width="300" alt="Randhir's Dev Card"/></a>
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ThisisRandhir&layout=wide)](https://github.com/ThisisRandhir/github-readme-twitter)
 <br/>   
