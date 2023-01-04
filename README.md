@@ -14,7 +14,7 @@
 <h4 align="center"> A graduated🎓 Electrical And Electronics Engineer💡 in the Field of CS or IT👨🏽‍💻 domain, studied from India, Kolkata <img src="https://media3.giphy.com/media/9Gnbm29r7ftUA/giphy.gif?cid=ecf05e47fukjq9m5qmytezvwv70g5n3tafh00x32klperzza&rid=giphy.gif&ct=g" width="45">. I am a Web3.0 & AIML enthusiast and a Bathroom Singer. I am a self learner and passionate about Data-Science 🤖👾. </h4>
 
 <p> <a href="https://github.com/randhirshaw">
-<img align= "left" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=randhirshaw&theme=radical"> </a> <img align="right" height="400" width="410" src="Problems.gif"> 
+<img align= "left" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=randhirshaw&theme=radical"> </a> <img align="right" height="400" width="410" src="https://media.giphy.com/media/H9ZY4hmRUV9gDN8npb/giphy.gif"> 
 <img align= "left" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=randhirshaw&count_private=true&theme=radical&show_icons=true">
 </p>
 
