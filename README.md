@@ -173,7 +173,7 @@
 ### <img align="center" width="29px" src="fact.gif"> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“When debugging, novices insert corrective code; experts remove defective code.”— Richard Pattis   ❞</i>
+<i>❝A 15 year old hacked NASA computers and caused a 21-day shutdown of their computers.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
