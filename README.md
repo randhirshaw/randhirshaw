@@ -173,7 +173,7 @@
 ### <img align="center" width="29px" src="fact.gif"> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The original name of Windows was Interface Manager.❞</i>
+<i>❝“As data scientists, our job is to extract signal from noise.”— Daniel Tunkelang❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
