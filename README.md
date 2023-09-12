@@ -173,7 +173,7 @@
 ### <img align="center" width="29px" src="fact.gif"> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝A 15 year old hacked NASA computers and caused a 21-day shutdown of their computers.❞</i>
+<i>❝“Getting information off the Internet is like taking a drink from a fire hydrant.”— Mitchell Kapor  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
