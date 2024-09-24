@@ -173,7 +173,7 @@
 ### <img align="center" width="29px" src="fact.gif"> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Doug Engelbart invented the first computer mouse in around 1964 which was made of wood.❞</i>
+<i>❝“Hoaxes use weaknesses in human behavior to ensure they are replicated and distributed.  In other words, hoaxes prey on the Human Operating System.”— Stewart Kirkpatrick   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
