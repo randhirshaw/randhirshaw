@@ -18,7 +18,7 @@
 <img align= "left" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=randhirshaw&count_private=true&theme=radical&show_icons=true">
 </p>
 
-<p align="left"> <a href="https://twitter.com/ThisisRandhir" target="blank"> <img title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/ThisisRandhir?logo=twitter&style=for-the-badge" alt="ThisisRandhir" /></a> 
+<p align="left"> <a href="https://x.com/ThisisRandhir" target="blank"> <img title="Follow me on X" src="https://img.shields.io/twitter/follow/ThisisRandhir?logo=twitter&style=for-the-badge" alt="ThisisRandhir" /></a> 
 <a href="https://github.com/randhirshaw"> <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/randhirshaw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" /></a>
 </p>
 
