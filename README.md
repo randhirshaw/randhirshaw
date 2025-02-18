@@ -173,7 +173,7 @@
 ### <img align="center" width="29px" src="fact.gif"> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I am not out to destroy Microsoft, that would be a completely unintended side effect.”— Linus Torvalds   ❞</i>
+<i>❝“In a room full of top software designers, if two agree on the same thing, that’s a majority.”— Bill Curtis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
