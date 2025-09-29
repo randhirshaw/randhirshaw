@@ -173,7 +173,7 @@
 ### <img align="center" width="29px" src="fact.gif"> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you automate a mess, you get an automated mess.”— Rod Michael   ❞</i>
+<i>❝“We need above all to know about changes; no one wants or needs to be reminded 16 hours a day that his shoes are on.”— David Hubel   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
