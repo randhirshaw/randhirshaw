@@ -14,11 +14,11 @@
 <h4 align="center"> A graduated🎓 Electrical And Electronics Engineer💡 in the Field of CS or IT👨🏽‍💻 domain, studied from India, Kolkata <img src="https://media3.giphy.com/media/9Gnbm29r7ftUA/giphy.gif?cid=ecf05e47fukjq9m5qmytezvwv70g5n3tafh00x32klperzza&rid=giphy.gif&ct=g" width="45">. I am a Web3.0 & AIML enthusiast and a Bathroom Singer. I am a self learner and passionate about Data-Science 🤖👾. </h4>
 
 <p> <a href="https://github.com/randhirshaw">
-<img align= "left" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=randhirshaw&theme=radical"> </a> <img align="right" height="400" width="410" src="https://media.giphy.com/media/H9ZY4hmRUV9gDN8npb/giphy.gif"> 
-<img align= "left" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=randhirshaw&count_private=true&theme=radical&show_icons=true">
+<img align= "left" height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=randhirshaw&count_private=true&theme=radical&show_icons=true"> </a> <img align="right" height="400" width="410" src="https://media.giphy.com/media/H9ZY4hmRUV9gDN8npb/giphy.gif"> 
 </p>
 
-<p align="left"> <a href="https://x.com/ThisisRandhir" target="blank"> <img title="Follow me on X" src="https://img.shields.io/twitter/follow/ThisisRandhir?logo=twitter&style=for-the-badge" alt="ThisisRandhir" /></a> 
+<p align="left"> 
+<a href="https://x.com/ThisisRandhir"> <img alt="followers" title="Follow me on X" src="https://img.shields.io/twitter/follow/ThisisRandhir?style=for-the-badge&logo=twitter&label=ThisisRandhir" /></a> 
 <a href="https://github.com/randhirshaw"> <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/randhirshaw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" /></a>
 </p>
 
@@ -40,19 +40,14 @@
 <p align="center"><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=randhirshaw&count_private=true&layout=compact&theme=radical&show_icons=true" alt="randhirshaw" align = "center"/></p>
 <b>Note:</b> Top languages is only a metric of the language's of my public code and doesn't reflect experience or skill level.
 </details>
-<details>         <summary><i><b>📊 Github Contribution Graph</b></i></summary>
-<p align="center"> <a href="https://github.com/randhirshaw/github-readme-activity-graph"><img alt="Randhir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=randhirshaw&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </a></p>
-</details>
-<details>         <summary><i><b>🏆 Github Achievements</b></i></summary>
-<p align="center"> <a href="https://github.com/randhirshaw"><img src="https://github-profile-trophy.vercel.app/?username=randhirshaw&margin-w=5&theme=radical" alt="randhirshaw" /></a> </p>
-</details>
+
 
 <a><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="center">Connect with me🤗🤝:</h3>
 
 <p align="center">
-<a href="https://twitter.com/ThisisRandhir" target="blank"> <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ThisisRandhir" height="50" width="50" /> </a> &nbsp;&nbsp;&nbsp; 
+<a href="https://www.X.com/ThisisRandhir" target="blank"> <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ThisisRandhir" height="50" width="50" /> </a> &nbsp;&nbsp;&nbsp; 
 <a href="https://www.linkedin.com/in/randhirshaw/" target="blank"> <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="randhir shaw" height="50" width="50" /> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/randhirgpta" target="blank"> <img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="randhirgpta" height="50" width="50" /></a>
 </p>
@@ -159,16 +154,11 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </p>
 
----
-<!--START_SECTION:waka-->
-
-
-
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress** { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 26.57 % as on ⏰ 26-Oct-2022
 
 ---
+
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
 
 ### <img align="center" width="29px" src="fact.gif"> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
@@ -176,34 +166,15 @@
 <i>❝“In an information economy, the most valuable company assets drive themselves home every night.  If they are not treated well, they do not return the next morning.”— Peter Chang  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
+<p align="center"> <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" /> </p>
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
-
----
-<!-- <a href="https://app.daily.dev/randhirshaw"><img align="right" src="https://github.com/randhirshaw/randhirshaw/blob/master/devcard.svg" width="300" alt="Randhir's Dev Card"/></a> -->
+<!--- 
+<details>         <summary><i><b>📊 Github Contribution Graph</b></i></summary>
+<p align="center"> <a href="https://github.com/randhirshaw/github-readme-activity-graph"><img alt="Randhir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=randhirshaw&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </a></p>
+</details>
+<details>         <summary><i><b>🏆 Github Achievements</b></i></summary>
+<p align="center"> <a href="https://github.com/randhirshaw"><img src="https://github-profile-trophy.vercel.app/?username=randhirshaw&margin-w=5&theme=radical" alt="randhirshaw" /></a> </p>
+</details>
+<a href="https://app.daily.dev/randhirshaw"><img align="right" src="https://github.com/randhirshaw/randhirshaw/blob/master/devcard.svg" width="300" alt="Randhir's Dev Card"/></a> 
 <a href="https://app.daily.dev/randhirshaw"><img align="right" src="https://api.daily.dev/devcards/014fa0c02f094c3caac5818f8532a470.png?r=f6e" width="300" alt="Randhir's Dev Card"/></a>
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=ThisisRandhir&layout=wide)](https://github.com/ThisisRandhir/github-readme-twitter)
-<br/>   
-[![Randhir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IamRandhir)](https://github.com/randhirshaw/github-readme-stats)
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
-<!---
-<a href="https://github.com/randhirshaw/randhirshaw/issues/2#issuecomment-new"><img src="images/guestbook.svg"></a> 
-
-<div align="center"><img src="https://randhirshaw.github.io/static/images/spotify-readme-example.svg" /></div>  
-<br/>  
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=randhirshaw&&style=flat-square" align="center" />
-</div>  
-<br/>  
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" align="center" />
-            </a></div>
-<div align="center">
-<img src="https://randhirshaw.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
