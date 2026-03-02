@@ -163,7 +163,7 @@
 ### <img align="center" width="29px" src="fact.gif"> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝CAPTCHA is an acronym for “Completely Automated Public Turing test to tell Computers and Humans Apart”❞</i>
+<i>❝“Without a systematic way to start and keep data clean, bad data will happen.”— Donato Diorio❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 <p align="center"> <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" /> </p>
