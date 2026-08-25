@@ -163,7 +163,7 @@
 ### <img align="center" width="29px" src="fact.gif"> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝IBM 5120 from 1980 was the heaviest desktop computer ever made. It weighed about 105 pounds, not including the 130 pounds external floppy drive.❞</i>
+<i>❝“Programs must be written for people to read, and only incidentally for machines to execute.”— Abelson and Sussman   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 <p align="center"> <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" /> </p>
