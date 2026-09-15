@@ -163,7 +163,7 @@
 ### <img align="center" width="29px" src="fact.gif"> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I do not fear computers. I fear lack of them.”— Isaac Asimov  ❞</i>
+<i>❝“Java is the most distressing thing to hit computing since MS-DOS.”— Alan Kay  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 <p align="center"> <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" /> </p>
