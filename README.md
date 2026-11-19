@@ -163,7 +163,7 @@
 ### <img align="center" width="29px" src="fact.gif"> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Programs must be written for people to read, and only incidentally for machines to execute.”— Abelson and Sussman   ❞</i>
+<i>❝Around 50% of all Wikipedia vandalism is caught by a single computer program with more than 90% accuracy.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 <p align="center"> <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" /> </p>
